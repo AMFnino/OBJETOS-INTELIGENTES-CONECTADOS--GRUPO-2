@@ -1,0 +1,2 @@
+O projeto se estrutura em um dispositivo que quando sob um som com um volume mínimo, muda de cor e envia uma mensagem de alerta através de uma API. 
+Ele funciona com NodeMCU, Módulo Sensor Detector de Som Microfone e atuador, que fará a captação de faixas sonoras por um microfone, o acendimento do LED e com o limite de detecção podendo ser ajustado através do potenciômetro presente no sensor que regulará a saída digital. 
